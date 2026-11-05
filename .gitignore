@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+publish/
+*.exe
+*.dll
+*.pdb
+*.nupkg
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Test output
+selftest/
